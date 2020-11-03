@@ -26,7 +26,7 @@ e2 = Entry(f2, text="Body Part")
 l3 = Label(f3, text="Enter a Fluid: ")
 e3 = Entry(f3, text="Fluid")
 
-l4 = Label(f4, text="Enter a Body Part: ")
+l4 = Label(f4, text="Enter a Substance: ")
 e4 = Entry(f4, text="Substance")
 
 v1 = StringVar()
